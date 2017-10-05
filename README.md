@@ -1,4 +1,4 @@
-Waffle.io  [![Stories in Progress](https://badge.waffle.io/waffleio/waffle.io.svg?label=waffle%3Ain%20progress&title=In%20Progress)](http://waffle.io/waffleio/waffle.io)
+Waffle.io  [![Waffle.io - Columns and their card count](https://badge.waffle.io/waffleio/waffle.io.svg?columns=all)](http://waffle.io/waffleio/waffle.io)
 =========
 Waffle is a project management tool for dev teams that uses GitHub data as the primary source of record. Manage your projects alongside your code for free at [http://waffle.io](http://waffle.io).
 
