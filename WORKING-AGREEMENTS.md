@@ -13,6 +13,9 @@ For example, a customer reported bug might need to be expedited. Put the `expedi
 ### Talk about any work that's moved to "In Progress" or "Current Iteration" outside of a planning meeting, either in the team chat tool or during Standup.
 We plan in one week increments (called Iterations). It's common for interrupt work to be added to the current iteration based on customer support needs. For any interrupt work, make sure we talk about it to keep the team in sync.
 
+### Significant technical decisions are a team effort
+We build better things together than we do as individuals. When significant technical decisions are faced, we give the team an opportunity for input. This can be a meeting or just a Slack message; however, remote team members need to be invited to contribute. During grooming, when we identify a decision to be made, we will add an AC item for whoever is working on the card to set up the meeting or post in Slack. In the event that a decision point arises that was not identified in grooming, it will be up to the owner of the card to communicate with the team. We will hold each other accountable as a team by (graciously) pointing out decisions we would have liked to be involved in.
+
 ### PRs for all code changes
 Since Waffle is continuously deployed via [Codeship](https://codeship.com) when anything is committed to master, it's important for us to use Pull Requests to review code and make sure automated tests pass. Committing directly to master is only acceptable for emergencies, and should still be reviewed by a peer.
 
