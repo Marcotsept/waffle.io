@@ -5,13 +5,16 @@ These are our team working agreements. We're a distributed team, so some of thes
 Particularly Fridays at 6pm :). At Waffle we continuously deploy our code to production; a merged PR will be seen by customers in less than 5 minutes. When you merge a PR, it's your responsibility, with help from the team, to monitor for any unforseen customer performance or usability impacts. That's hard to do when we hit merge and walk out the door.
 
 ### Clear Acceptance Criteria and Sizing before a card is moved into "Current Iteration"
-As our team grows, it's important to make sure the work we do is clearly defined before we do it. The AC and the Size are determined by the team, usually during a weekly planning meeting. This working agreement helps us all stay on the same page with what we're committing to during an iteration.
+As our team grows, it's important to make sure the work we do is clearly defined before we do it. The Acceptance Criteria and the Size are determined by the team, usually during a weekly planning meeting. This working agreement helps us all stay on the same page with what we're committing to during an iteration.
 
 ### Use the `expedite` label for any work that's pulled into "In Progress" and supercedes current work.
 For example, a customer reported bug might need to be expedited. Put the `expedited` label on it, so the whole team knows that we're blocking other work to jump on it.
 
 ### Talk about any work that's moved to "In Progress" or "Current Iteration" outside of a planning meeting, either in the team chat tool or during Standup.
 We plan in one week increments (called Iterations). It's common for interrupt work to be added to the current iteration based on customer support needs. For any interrupt work, make sure we talk about it to keep the team in sync.
+
+### Significant technical decisions are a team effort
+We build better things together than we do as individuals. When significant technical decisions are faced, we give the team an opportunity for input. This can be a meeting or just a Slack message; however, remote team members need to be invited to contribute. During grooming, when we identify a decision to be made, we will add an Acceptance Criteria item for whoever is working on the card to set up the meeting or post in Slack. In the event that a decision point arises that was not identified in grooming, it will be up to the owner of the card to communicate with the team. We will hold each other accountable as a team by (graciously) pointing out decisions we would have liked to be involved in.
 
 ### PRs for all code changes
 Since Waffle is continuously deployed via [Codeship](https://codeship.com) when anything is committed to master, it's important for us to use Pull Requests to review code and make sure automated tests pass. Committing directly to master is only acceptable for emergencies, and should still be reviewed by a peer.
