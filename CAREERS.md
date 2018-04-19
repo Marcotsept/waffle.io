@@ -48,25 +48,4 @@ We use our own product to manage our work. Anyone in the world can see what we�
 
 ### Open Positions
 
-#### Developer Advocate
-
-Do you thrive talking to customers every day and helping them solve problems?
-
-At Waffle.io, we’re looking for someone to engage with engineers who would love to adopt Waffle, and also work with our new customers to help them be more awesome. You’ll wear a couple of different hats:
-
-* Be our brand ambassador. Travel to a couple events a month, including speaking at coding schools (they love Waffle!), meetups, and conferences. Sometimes we’ll be a sponsor, and sometimes you’ll just have swag in a backpack and be part of a community.
-* Help new customers be successful in the product. We have hundreds of new users sign up every week, and we want you to help them discover how Waffle makes their team ship better software faster.
-* Nurture relationships with our existing customers. Thousands of teams use Waffle every day to get work done, and we want to help them be more successful as their teams grow.
-
-To be great at this role, we think you’ll:
-* Have a background coding or working with dev teams. You have to understand the pain that engineering teams experience to be part of the community.
-* Have experience in sales or a customer success role for a technical product. We’re not looking for someone with just marketing experience, but someone who has been hands on with customers before.
-* Enjoy traveling and engaging with people you don’t know. 
-* Be a self starter. You’ll be our first hire of this type, so a lot of the stuff you’re doing will be self initiated.
-* Be achievement oriented. We’ll set clear success criteria, and of course iterate as we go. We’ll align the goals we set to our bonus structure so you’ll be rewarded for helping the business grow.
-
-Do you love a startup environment, where you can own responsibility for large parts of a business and be empowered to make real change? Join our team as we change the way software teams track work.
-
-Apply here: https://searchjobs.ca.com/job/Boulder-Developer-Advocate-CO-80301/442985800/
-
-
+We don't have any open positions right now. We love meeting our customers and fans, just open an issue in this repository to say hello!
