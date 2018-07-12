@@ -1,7 +1,5 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
-_We're hiring a **Developer Advocate**. Apply [below](#developer-advocate)!_
-
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
@@ -40,7 +38,7 @@ We run as a startup inside a big company. That means we do our own sales, market
 
 ### The Tech
 
-Waffle.io runs on a Node.js, Angular, CoffeeScript, MongoDB, and Docker stack. We’re hosted using cloud services, but also ship behind the firewall. We have a microservice architecture that’s continuously deployed.
+Waffle.io runs on a Node.js, Angular, CoffeeScript, Typescript, MongoDB, and Kubernetes stack. We’re hosted using cloud services, but also ship behind the firewall. We have a microservice architecture that’s continuously deployed.
 
 ### The Process
 
@@ -49,3 +47,8 @@ We use our own product to manage our work. Anyone in the world can see what we�
 ### Open Positions
 
 We don't have any open positions right now. We love meeting our customers and fans, just open an issue in this repository to say hello!
+
+## Hiring Process
+
+Read up on what the interview process for Waffle.io will look like
+[here](HIRING_PROCESS.md)
