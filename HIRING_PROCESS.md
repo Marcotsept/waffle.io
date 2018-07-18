@@ -1,5 +1,15 @@
 ## Process
-### Cover Letter and Resume
+We want to be transparent from the start as to what you can expect in the
+interview process at Waffle. The process is five stages long and is designed
+with two specific goals in mind:
+1. Give the Waffle team the best opportunity to understand a candidate's
+technical abilities and cultural fit.
+1. Give candidates the best opportunity to show us who they are and what
+the are capable of.
+
+We are always happy to answer questions along the way, just ask!
+
+### 1. Cover Letter and Resume
 Start your conversation with us by sending your cover letter and resume to
 [team@waffle.io](mailto:team@waffle.io).  In the cover letter, include why you
 want to work at Waffle and what you believe you bring to the team.
@@ -10,7 +20,7 @@ passion relevant to the position.
 After we take a gander and if it looks like a good fit, we'll reach out to start
 the screening process.
 
-### Screening
+### 2. Screening
 We want to learn more about you, your history, and your future
 goals.  We'll ask a few questions, similar to below.  They may be different
 depending on the position.
@@ -27,7 +37,7 @@ such that we can gauge your relevant experience.  This should only take a couple
 of hours. It is up to you to decide what to build. We are looking for creativity
 and ability.  This is your opportunity to impress us.
 
-### Interview
+### 3. Interview
 Our next step is an on-site interview.  Here you'll meet the team and vice
 versa. You'll be interviewed on technical competency and cultural fit. Be
 sure to checkout what we are looking for on our [Careers page](./CAREERS.md). No
@@ -44,7 +54,7 @@ The day will loosely look like this:
 Depending on the timing of the interview you'll get lunch with nearly the entire
 team. Take advantage of this time to socialize with us!
 
-### Coding exercise
+### 4. Coding exercise
 After the interview, we'll setup a domain specific coding challenge.  We ask
 that you don't spend more than 10 hours to work through it and you'll given a
 full 7 days to complete it. A private Slack channel will be created for you to
@@ -54,7 +64,7 @@ task, so the Waffle team is committing to being available in off hours
 collaborate as additional requirements are discovered and to learn how you
 receive and incorporate our feedback on the work.
 
-### Demo and final chat
+### 5. Demo and final chat
 The final step of the interview process is a video call with you to demo the
 coding exercise to the team.  Afterwards you'll have a final chat with the team
 lead. This is a final chance for both parties to ask any clarifying questions
