@@ -1,5 +1,8 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
+## We're hiring!
+We're looking for two senior devs to join our full stack engineering team. [Check out the details below](#open-positions)!
+
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
@@ -46,7 +49,18 @@ We use our own product to manage our work. Anyone in the world can see what weâ€
 
 ### Open Positions
 
-We don't have any open positions right now. We love meeting our customers and fans, just open an issue in this repository to say hello!
+We're hiring for two **full stack senior engineers** to join our team either in Boulder, CO or Raleigh, NC!
+
+You could be an awesome fit if you:
+- are an expert with NodeJS and JavaScript.
+- are experienced with Angular and AngularJS.
+- are experienced with MongoDB.
+- have experience designing, monitoring, and scaling web services.
+- enjoy working with others to solve problems. At Waffle we often pair on work and are always collaborating for the best solution.
+- enjoy understanding how customers use the code you write. At Waffle we are all about solving the right problem for the right customer, and it is everyone's job to put the customer first.
+- have contributed to open source. We are widely adopted by the open source community and we love candidates who give back!
+
+Interested? Check out our [hiring process](HIRING_PROCESS.md) to get started!
 
 ## Hiring Process
 
