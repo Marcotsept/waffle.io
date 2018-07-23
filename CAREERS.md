@@ -1,7 +1,7 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
 ## We're hiring!
-We're looking for two senior devs to join our full stack engineering team. [Check out the details below](#open-positions)!
+We're looking for two senior devs and a senior devops engineer to join our full stack engineering team. [Check out the details below](#open-positions)!
 
 ## Who Are We?
 
@@ -10,6 +10,11 @@ At Waffle.io, we're reinventing the way engineering teams track work. We believe
 Waffle.io is an Enterprise Lean Startup, running inside one of the largest independent software corporations in the world, CA Technologies. We believe in rapidly iterating on solutions with our customers, to find problems that are worth solving.
 
 Are you passionate about improving the lives of developers like yourself? Do you thrive in a startup environment, where it’s up to you to solve a wide range of technical problems and work across the stack? If so, we’d love to meet you!
+
+Here are some marks of our team culture:
+- **Quarterly hackathons**. We seek to hire self-directed, creative team members. As such, some of our most valuable work comes from letting our team members be who they are and build what they want to build. Often times these hackathons are shipped to production, even if post-hackathon work has to be prioritized to finish them. Other times, hackathons are used to explore and learn new technology and techniques.
+- **Work/life balance**. We make it a point to live life, not just do work.
+- **Collaboration and respect**. Each person on the team has a voice in any area they are passionate about. We come to better solutions as a team than any one of us would. This means that we bring our opinions, even strong ones, to the table and hold them loosly as we listen to each perspective to find the right path forward.
 
 ## Who Are You?
 
@@ -49,16 +54,46 @@ We use our own product to manage our work. Anyone in the world can see what we�
 
 ### Open Positions
 
-We're hiring for two **full stack senior engineers** to join our team either in Boulder, CO or Raleigh, NC!
+We're hiring for a **senior devops engineer** and two **full stack senior software engineers** to join our team in Boulder, CO or Raleigh, NC!
 
-You could be an awesome fit if you:
-- are an expert with NodeJS and JavaScript.
-- are experienced with Angular and AngularJS.
-- are experienced with MongoDB.
-- have experience designing, monitoring, and scaling web services.
-- enjoy working with others to solve problems. At Waffle we often pair on work and are always collaborating for the best solution.
-- enjoy understanding how customers use the code you write. At Waffle we are all about solving the right problem for the right customer, and it is everyone's job to put the customer first.
-- have contributed to open source. We are widely adopted by the open source community and we love candidates who give back!
+#### Senior DevOps Engineer
+What you'll be doing:
+- Working closesly with the whole Waffle team to drive the Waffle mission forward and make our customers most successful
+- Supporting and advancing [Waffle Takeout](https://takeout.waffle.io), the on premises installation of Waffle
+- Managing production and development infrastructure using Docker, Terraform, Kubernetes, GKE, HAProxy, and NodeJS
+- Owning monitoring and instrumentation of each of the Waffle services
+- Building chatops to support your work and the rest of the team
+- Managing MongoDB hosted by Compose.com
+- Maintaining and advancing CI/CD via CircleCI
+- Working with the rest of the team to determine and execute on future operational and infrustructural changes
+
+What you'll bring:
+
+We are looking for passionate, self-directed, people who care about the customers their software is serving. For this position we are seeking an individual with solid experience and any of the following will give you a good head start:
+- Solid expertise in networking, both in the cloud and in on-premises networks
+- Docker, Kubernetes, Ansible, Terraform
+- NodeJS and JavaScript
+- Instrumenting, monitoring, and scaling web servers
+- Chatops
+
+#### Senior Software Engineer (2 openings)
+What you'll be doing:
+- Working closesly with the whole Waffle team to drive the Waffle mission forward and make our customers most successful
+- Using Javascript, NodeJS, Angular, etc. to build customer focused, full stack solutions
+- Building software that is continuously tested and deployed
+- Writing automated tests for the code you write
+- Collaborating with other developers through the whole process of design, implementation, review, and iterating on software
+- Ensuring quality from the start through collaboration and code reviews
+
+What you'll bring:
+
+We are looking for passionate, self-directed, people who care about the customers their software is serving. For this possition we are seeking an individual with solid experience and any of the following will give you a good head start:
+- Solid expertise in NodeJS and JavaScript
+- Experience with Angular and AngularJS
+- Experience with MongoDB
+- Solid understanding of designing, monitoring, and scaling web services
+- Enjoy working with others to solve problems and put the customer first
+- Contributed to open source. We are widely adopted by the open source community and we love candidates who give back!
 
 Interested? Check out our [hiring process](HIRING_PROCESS.md) to get started!
 
