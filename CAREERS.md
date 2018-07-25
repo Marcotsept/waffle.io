@@ -78,7 +78,7 @@ We are looking for passionate, self-directed, people who care about the customer
 
 #### Senior Software Engineer (2 openings)
 What you'll be doing:
-- Working closesly with the whole Waffle team to drive the Waffle mission forward and make our customers most successful
+- Working closely with the whole Waffle team to drive the Waffle mission forward and make our customers most successful
 - Using Javascript, NodeJS, Angular, etc. to build customer focused, full stack solutions
 - Building software that is continuously tested and deployed
 - Writing automated tests for the code you write
@@ -87,7 +87,7 @@ What you'll be doing:
 
 What you'll bring:
 
-We are looking for passionate, self-directed, people who care about the customers their software is serving. For this possition we are seeking an individual with solid experience and any of the following will give you a good head start:
+We are looking for passionate, self-directed, people who care about the customers their software is serving. For this position we are seeking an individual with solid experience and any of the following will give you a good head start:
 - Solid expertise in NodeJS and JavaScript
 - Experience with Angular and AngularJS
 - Experience with MongoDB
