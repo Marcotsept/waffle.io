@@ -5,7 +5,7 @@ These are our team working agreements. We're a distributed team, so some of thes
 Particularly Fridays at 6pm :). At Waffle we continuously deploy our code to production; a merged PR will be seen by customers in less than 5 minutes. When you merge a PR, it's your responsibility, with help from the team, to monitor for any unforseen customer performance or usability impacts. That's hard to do when we hit merge and walk out the door.
 
 ### Clear Acceptance Criteria and Sizing before a card is moved into "Current Iteration"
-As our team grows, it's important to make sure the work we do is clearly defined before we do it. The Acceptance Criteria and the Size are determined by the team, usually during a weekly planning meeting. This working agreement helps us all stay on the same page with what we're committing to during an iteration.
+As our team grows, it's important to make sure the work we do is clearly defined before we do it. The Acceptance Criteria and the Size are determined by the team, usually during a weekly planning meeting.  At the end of planning, we use a fist of five vote to determine if what's planned is the most valuable work we can do for Waffle's users and our business.  If any teammember is < 3, we'll discuss as a team and adjust the plan as needed. This working agreement helps us all stay on the same page with what we're committing to during an iteration.
 
 ### Use the `expedite` label for any work that's pulled into "In Progress" and supercedes current work.
 For example, a customer reported bug might need to be expedited. Put the `expedited` label on it, so the whole team knows that we're blocking other work to jump on it.
@@ -38,7 +38,7 @@ As a distributed team, it's sometimes easy to miss reviewing a peer's PR. We don
 Our Waffle board is publicly available at waffle.io/waffleio/waffle.io. Any work that can be made public should be made public for everyone to see what we're working on (and why!).
 
 ### How do we modify our working agreements?
-Any teammate can suggest we modify, remove, or add a working agreement. Any change needs to be accepted by the whole team, using a fist of five vote:
+Any teammate can suggest we modify, remove, or add a working agreement. Any change needs to be accepted by the whole team, using a fist of five vote (or Pull Request Review approval from each team member):
 - 5: This change to our working agreements makes me the most excited I've ever been to work together as a team
 - 4: This change is great, 100% on board
 - 3: I'm not that passionate about it, but I'll agree to it and not complain about it.
