@@ -18,7 +18,7 @@ We build better things together than we do as individuals. When significant tech
 
 ### Significant UX changes are a team effort
 When there is work that constitutes a significant UX change we will create an associated design card. The team will decide in planning if the work is html heavy and the design work is required up front, or can be implemented later. 
-Since we build better things together than we do as individuals, when it comes to significant UX changes frequent screenshots in Slack as the design is implemented help the team pivot design choices quickly. Ideally when work is ready for review it will be deployed to our staging environment, a the teammember that implemented the desing would host a quick demo with the rest of the team during the workday. If late in the working day the demo would occur directly after standup the following day. 
+Since we build better things together than we do as individuals, when it comes to UX changes frequent screenshots in Slack of the agreed upon design as it is implemented, as well as unanticipated design choices that come up, help the team pivot the design quickly. Ideally when work is ready for review it will be deployed to our staging environment, an the member of the team that implemented the design would host a quick demo with the rest of the team during the workday. If late in the working day the demo would occur directly after standup the following day. 
 
 ### PRs for all code changes
 Since Waffle is continuously deployed via [Codeship](https://codeship.com) when anything is committed to master, it's important for us to use Pull Requests to review code and make sure automated tests pass. Committing directly to master is only acceptable for emergencies, and should still be reviewed by a peer.
